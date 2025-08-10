@@ -15,6 +15,7 @@ Identify profit by different discount ranges.
 Provide a visual, data-driven summary for decision-making.
 
 🛠 Skills & Tools Used
+
 Data Cleaning: Removed duplicates, fixed formats, handled missing values.
 
 Formulas & Functions: VLOOKUP, INDEX-MATCH, IF, IFS, TEXT, DATE.
@@ -26,8 +27,11 @@ Pivot Tables & Charts: Summarizing large datasets for quick insights.
 KPI Tracking: Sales and profit KPIs for performance evaluation.
 
 🔍 Key Insights
+
 Identified top regions contributing to maximum sales.
 
-Found high-profit product categories and subcategories.
+Found high-profit product categories.
 
-Detected underperforming products for potential optimizatio
+Most profit achived by discount range.
+
+Found Each Month's Sales and Profit.
